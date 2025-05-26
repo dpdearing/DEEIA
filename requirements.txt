@@ -1,6 +1,9 @@
 backcall==0.2.0
 blis==0.7.5
+boto3
+bs4
 catalogue==2.0.6
+cchardet
 certifi==2021.5.30
 charset-normalizer==2.0.7
 click==8.0.3
@@ -35,7 +38,7 @@ preshed==3.0.6
 prompt-toolkit==3.0.22
 protobuf==3.19.1
 ptyprocess==0.7.0
-pydantic==1.7.3
+pydantic==1.7.4
 Pygments==2.10.0
 pyparsing==2.4.7
 PyYAML==6.0
